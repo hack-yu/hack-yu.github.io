@@ -1,5 +1,5 @@
-const weather_celcius = document.querySelector("#weather #celcius");
-const city = document.querySelector("#weather #location");
+const weather_celcius = document.querySelector("#celcius");
+const city = document.querySelector("#location");
 const weather_img = document.querySelector("#weather_icon");
 
 const API_KEY = "241051bf13976dd3ddf8b8d9f247255e";
